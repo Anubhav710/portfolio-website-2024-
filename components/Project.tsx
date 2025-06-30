@@ -12,18 +12,19 @@ const Project = () => {
         <h2 className={`${styles.sectionHeadText}`}>My Project</h2>
       </MotionDiv>
       <div>
-        <Link
-          heading="Leonardo Ai"
-          imgSrc="/images/leo.png"
-          href="https://main--image-leonardo.netlify.app/"
+      <Link
+          heading="PA Yoga Website"
+          imgSrc="/images/yoga-website.png"
+          href="https://payogastudio.com/"
           subheading="Click here for Live Demo"
         />
         <Link
-          heading="Gemini Clone"
-          imgSrc="/images/Gemini.jpg"
-          href="https://main--gemia.netlify.app/"
+          heading="Gaming Website"
+          imgSrc="/images/gaming-website.png"
+          href="https://gaming-website-sigma-ruby.vercel.app/"
           subheading="Click here for Live Demo"
         />
+       
         <Link
           heading="Amazon Website "
           imgSrc="/images/Amazon.png"

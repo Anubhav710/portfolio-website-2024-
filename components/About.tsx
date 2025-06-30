@@ -43,14 +43,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        👋 Hi, I&lsquo;m Anubhav Agrawal! I&lsquo;m a friendly web developer
-        hailing from Gurugram, Haryana. Currently pursuing my B.Tech degree from
-        Chandigarh University 4th year, I have an insatiable passion for
-        creating stunning websites that leave a lasting impression on the
-        internet. With a strong skillset in HTML, JavaScript, CSS, Next.js,
-        Node.js, and MongoDB, I strive to deliver exceptional digital
-        experiences. Let&lsquo;s collaborate and bring your web projects to
-        life! Connect with me today and let&lsquo;s make magic happen. ✨💻
+        👋 Hi, I'm Anubhav Agrawal from Gurugram, Haryana — currently working as a Frontend Developer at UTXO Tech with 1 year of hands-on experience. I specialize in building fast, responsive, and visually appealing websites using HTML, CSS, JavaScript, Next.js, and MongoDB. I'm passionate about turning ideas into clean, functional web experiences that users love. ✨💻
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((services, index) => (
