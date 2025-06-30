@@ -30,6 +30,9 @@ export default function Home() {
       </div>
 
       {/* Contact  */}
+      <div className="w-full bg-black py-10 text-white text-center">
+        Created and Developed by Anubhav Agrawal
+      </div>
     </main>
   );
 }

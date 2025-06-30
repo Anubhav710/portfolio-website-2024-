@@ -68,7 +68,7 @@ const Navbar = () => {
           ))}
           <button
             className=" text-white border border-[#915eff] rounded-md px-4 py-2 hover:bg-[#915eff] transition-all duration-700 "
-            onClick={() => window.open("/Resume.png")}
+            onClick={() => window.open("/Anubhav Resume.pdf")}
           >
             Resume
           </button>
